@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post One Edited",
+      "body": "This is the post body",
+      "publishedAt": "10-01-2020"
+    },
+    {
+      "id": "2",
+      "title": "Post Two",
+      "body": "This is the post body",
+      "publishedAt": "10-02-2020"
+    },
+    {
+      "id": "3",
+      "title": "Post Three",
+      "body": "This is the post body",
+      "publishedAt": "10-03-2020"
+    },
+    {
+      "title": "Test Create",
+      "body": "this is test created",
+      "publishedAt": "2021-03-23",
+      "id": "Z1cPyBv"
+    }
+  ],
+  "users": [{ "id": "1", "name": "John Doe", "email": "john@example.com" }]
+}
